@@ -1,1 +1,1 @@
-versao 2
+Calcule gorgeta, entre amigos.
